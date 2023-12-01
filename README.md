@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnav Shah</h1>
-<h3 align="center">A passionate and smart working App Developer from India</h3>
+<h3 align="center">A passionate and smart working Website And Application Developer from India</h3>
 
 - 🔭 I’m currently working on **Handy Code**
 
