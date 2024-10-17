@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Handy Code**
 
-- 💬 Ask me about **Flutter, HTML, CSS, JS, Machine Learning, Computer Vision**
+- 💬 Ask me about **Flutter, Full Stack Web Development, Machine Learning, Swift**
 
 - 📫 How to reach me **arnavkshah2003@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1LYWIDPE1fCu2oM6UW9yBJ3Ckr37GdnnZ/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1SH3IeE9UOn8sx7XCXC3_mfujXT3npRFD/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
